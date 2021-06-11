@@ -9,4 +9,4 @@ Questions here are meant to test your understanding about DevOps rather than foc
 Q1. What are the fundamental differences between DevOps & Agile?
 The differences between the two are listed down in the table below.
 
-![alt text](/Users/giridmur/Desktop)
+![alt text](/Screen Shot 2021-06-11 at 11.04.26 AM.png/)
